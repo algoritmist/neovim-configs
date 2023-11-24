@@ -13,3 +13,9 @@
 [submodule "pack/vendor/start/haskell-vim"]
 	path = pack/vendor/start/haskell-vim
 	url = https://github.com/neovimhaskell/haskell-vim.git
+[submodule "pack/vendor/start/haskell-tools.nvim"]
+	path = pack/vendor/start/haskell-tools.nvim
+	url = https://github.com/mrcjkb/haskell-tools.nvim.git
+[submodule "pack/vendor/start/vim-stylish-haskell"]
+	path = pack/vendor/start/vim-stylish-haskell
+	url = https://github.com/nbouscal/vim-stylish-haskell.git
